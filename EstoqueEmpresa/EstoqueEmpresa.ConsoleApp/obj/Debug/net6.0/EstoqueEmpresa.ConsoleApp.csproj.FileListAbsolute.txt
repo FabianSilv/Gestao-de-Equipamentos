@@ -1,0 +1,15 @@
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\bin\Debug\net6.0\EstoqueEmpresa.ConsoleApp.exe
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\bin\Debug\net6.0\EstoqueEmpresa.ConsoleApp.deps.json
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\bin\Debug\net6.0\EstoqueEmpresa.ConsoleApp.runtimeconfig.json
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\bin\Debug\net6.0\EstoqueEmpresa.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\bin\Debug\net6.0\EstoqueEmpresa.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.AssemblyInfo.cs
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\refint\EstoqueEmpresa.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\EstoqueEmpresa.ConsoleApp.genruntimeconfig.cache
+C:\Users\Fabian\Source\Repos\EstoqueEmpresa\EstoqueEmpresa.ConsoleApp\obj\Debug\net6.0\ref\EstoqueEmpresa.ConsoleApp.dll
